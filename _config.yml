@@ -44,7 +44,7 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "http://rmaharj17.github.io/2015-07-01-miskatonic"
+workshop_repo: "http://rmaharj17.github.io/2015-07-01-Stillwater"
 workshop_site: "https://carpentries.github.io/workshop-template"
 
 # Surveys.
