@@ -44,7 +44,7 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "http://gvwilson.github.io/2010-07-20-Stillwater"
+workshop_repo: "https://github.com/rmaharj17/2019-07-20-Stillwater/"
 workshop_site: "https://carpentries.github.io/workshop-template"
 
 # Surveys.
